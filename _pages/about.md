@@ -2,33 +2,74 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: High School Student | Software Developer | AI Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
+  address: >
+    <p>Istanbul, Turkey</p>
+    <p>mustafa.taha.chetin@gmail.com</p>
+    <p>+90 (541) 395-9335</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Mustafa Taha Cetin, a high school student at GHV Mustafa Saffet Science High School in Istanbul, Turkey. I'm passionate about robotics, artificial intelligence, and software development.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## About Me
+
+I am a high school student from Istanbul, deeply engaged in the fields of Artificial Intelligence, Software and Robotics. My work focuses on bridging the gap between theoretical knowledge and practical application, from leading competitive robotics teams to conducting formal AI research and developing award-winning software.
+
+---
+
+## 🔹 Robotics & Leadership
+
+My passion for technology began with robotics, where I learned to combine engineering with effective leadership.
+
+* **Team Captain, Vortex Robotics (FRC Team 7600):** Led a 15-student team to become a semi-finalist in a national competition involving 34 teams. I was responsible for coordinating development strategy and managing project timelines.
+* **Founder & Captain, Robot-Sumo Team:** Established my high school's first competitive sumo-bot team. I personally developed the Arduino-based programming for our autonomous robots, focusing on real-time decision algorithms.
+
+
+## 🔹 AI Research & Analysis
+
+I apply an analytical approach to understand and evaluate intelligent systems.
+
+* **AI Model Testing Intern, Beneluxsoft B.V.:** I developed Python scripts and used the Google Agent Development Kit (ADK) to test and validate AI agent models.
+* **My AI Research Peport:** Research report comparing the performance of ChatGPT, Claude, and Gemini. Also this report published zenodo. (DOI :   10.5281/zenodo.17249242)
+* **Data Visualization:** Created data visualizations using Python to analyze and present research findings, which were included in the final publication.
+
+
+## 🔹 Software & Game Development
+
+I am driven to build complete, functional software from the ground up.
+
+* **1st Place, Daydream Hackathon (Sept 2025):** Won a competitive hackathon by developing a full action-platformer game. I handled all aspects of development, including game mechanics, UI, and logic using GDScript and Godot Engine 4.
+* **Full-Stack Projects:** Developed multiple applications, including a University Admin System using C# and SQL Server, demonstrating skills in database architecture and management.
+* **Database Entegrated Management Systems:** Functional desktop software for company management and planning, utilizing SQL database and C# programming language.
+* **Google ADK Projects:** An agent setup developed using Google ADK and Python for e-commerce companies that can compare product prices, show which brands sell the products, and deliver the desired data with 99% accuracy.
+
+My ultimate goal is to contribute to meaningful advancements in AI and automation. For this reason, I am someone who always strives to improve myself.
+
+### Current Focus
+
+I'm currently exploring the intersection of AI and practical applications, working on projects that include:
+- AI-powered market intelligence systems for e-commerce
+- Autonomous agent development
+- Multi-agent architecture
+- Database architecture and full-stack web applications
+
+When I'm not coding or building robots, you can find me playing guitar, practicing archery, or working on my fitness through bodybuilding and swimming.
+
+## Technical Skills
+
+- **Programming**: Python, C#, SQL, HTML/CSS, Arduino, GDScript
+- **AI/ML**: Agent-based Systems, Multi-Agent systems, Agentic architecture
+- **Frameworks**: Google ADK, Godot Engine 4, Git/GitHub
+- **Databases**: MS SQL Server, Database Architecture
+
+Feel free to check out my [projects](/projects), [publications](/publications), or connect with me on [GitHub](https://github.com/mustafa-taha-cetin).
