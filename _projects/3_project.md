@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI-Powered Market Intelligence System
+title: Agent Based Market Analysis
 description: Autonomous e-commerce pricing analysis with Google ADK
 img: assets/img/market_intelligence.jpg
 importance: 3
